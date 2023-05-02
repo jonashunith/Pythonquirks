@@ -1,6 +1,6 @@
 from tkinter import *
 from datetime import datetime as dt
-from . import myquery
+import myquery
 
 #-----------------------------------------------current queries
 qa1 = myquery.A1_query()
